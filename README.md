@@ -1,2 +1,1 @@
-# Système de Recommandation
-Multi-modèles pour Amazon
+# Système de Recommandation Multi-modèles pour Amazon

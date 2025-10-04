@@ -1,0 +1,7 @@
+# Ignore datasets
+*.jsonl
+*.csv
+*.zip
+*.gz
+*.parquet
+data/raw/*
